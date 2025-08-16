@@ -31,6 +31,7 @@ Decrypted RGB: (100, 150, 200)
 💻 How to Run on Kali Linux:
 
 🔸 Step 1: Place your encrypted image in the project directory as encrypted_image.png.
+
 🔸 Step 2: Run the script again:
 ```bash
 python3 image_encrypt.py
